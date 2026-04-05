@@ -11,6 +11,10 @@ Serial monitor dalam Arduino IDE adalah fitur bawaan berbentuk jendela pop-up ya
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <th>Arduino</th>
+    <th>LED</th>
+    <th>Resistor</th>
+    <th>Bradboard</th>
+    <th>Jumper</th>
   </tr>
 
   <tr align="center">
@@ -32,7 +36,7 @@ Serial monitor dalam Arduino IDE adalah fitur bawaan berbentuk jendela pop-up ya
   </tr>
 
   <tr align="center">
-    <td>Arduino Uno</td>
+    <td>Arduino Uno, Leonardo, atau lainnya</td>
     <td>Red LED</td>
     <td>220Ω Resistor atau lainnya</td>
     <td>Breadboard Mini</td>
